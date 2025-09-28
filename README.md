@@ -21,7 +21,7 @@ const desarrollador = {
     objetivo: "Crear soluciones que impacten positivamente la vida de las personas",
     estadoActual: "Siempre dispuesto a nuevos desafíos 💪"
 };
-
+```
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />

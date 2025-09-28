@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ¡Hola! Soy [Tu Nombre]
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ¡Hola Mundo! Soy Wandy
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Apasionado+por+la+Tecnolog%C3%ADa;Creador+de+Experiencias+Digitales;Siempre+Aprendiendo+Algo+Nuevo" alt="Typing SVG" />
@@ -14,15 +14,14 @@
 
 ## 🚀 Sobre Mí
 
-```javascript
 const desarrollador = {
-    nombre: "Tu Nombre",
-    ubicación: "Santo Domingo, República Dominicana 🇩🇴",
+    nombre: "Wandy",
+    ubicación: "San Francisco, República Dominicana 🇩🇴",
     pasiones: ["Código Limpio", "Innovación", "Aprendizaje Continuo"],
     objetivo: "Crear soluciones que impacten positivamente la vida de las personas",
     estadoActual: "Siempre dispuesto a nuevos desafíos 💪"
 };
-```
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />

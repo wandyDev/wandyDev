@@ -13,7 +13,7 @@
 </div>
 
 ## 🚀 Sobre Mí
-
+```
 const desarrollador = {
     nombre: "Wandy",
     ubicación: "San Francisco, República Dominicana 🇩🇴",

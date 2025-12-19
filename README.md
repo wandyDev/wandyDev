@@ -4,13 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Apasionado+por+la+Tecnolog%C3%ADa;Creador+de+Experiencias+Digitales;Siempre+Aprendiendo+Algo+Nuevo" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/tuusuario?style=social)](https://github.com/tuusuario)
-[![GitHub stars](https://img.shields.io/github/stars/tuusuario?style=social)](https://github.com/tuusuario)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tuusuario.tuusuario)](https://github.com/tuusuario)
 
-</div>
 
 
 <div align="center">

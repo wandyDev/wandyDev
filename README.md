@@ -12,16 +12,6 @@
 
 </div>
 
-## 🚀 Sobre Mí
-```
-const desarrollador = {
-    nombre: "Wandy",
-    ubicación: "San Francisco, República Dominicana 🇩🇴",
-    pasiones: ["Código Limpio", "Innovación", "Aprendizaje Continuo"],
-    objetivo: "Crear soluciones que impacten positivamente la vida de las personas",
-    estadoActual: "Siempre dispuesto a nuevos desafíos 💪"
-};
-```
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -57,30 +47,8 @@ const desarrollador = {
 
 </div>
 
-## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🏆 Logros GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tuusuario&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-## 🔥 Proyectos Destacados
-
-<div align="center">
-
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto1&theme=tokyonight&hide_border=true)](https://github.com/tuusuario/proyecto1)
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto2&theme=tokyonight&hide_border=true)](https://github.com/tuusuario/proyecto2)
-
-</div>
 
 ## 📈 Actividad de Contribución
 

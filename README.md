@@ -1,97 +1,144 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ¡Hola Mundo! Soy Wandy
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Apasionado+por+la+Tecnolog%C3%ADa;Creador+de+Experiencias+Digitales;Siempre+Aprendiendo+Algo+Nuevo" alt="Typing SVG" />
-</div>
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/tuusuario?style=social)](https://github.com/tuusuario)
-[![GitHub stars](https://img.shields.io/github/stars/tuusuario?style=social)](https://github.com/tuusuario)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tuusuario.tuusuario)](https://github.com/tuusuario)
-
-</div>
-
-
-
-
-
-## 💻 Stack Tecnológico
-
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey! Soy Wandy
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+### Full Stack Developer | Creador de Experiencias Digitales
 
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Apasionado+por+la+Innovaci%C3%B3n;Construyendo+el+Futuro;Siempre+Aprendiendo" alt="Typing SVG" />
 
-### Herramientas de Desarrollo
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandy-cruz-09107b38a/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/WandyDev_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wandydev01@gmail.com)
 
-</div>
-
-
-
-
-## 📈 Actividad de Contribución
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tuusuario&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=tuusuario&cover_image=true&theme=natemoo-re&show_offline=false&background_color=1a1b27&bar_color=53b991&bar_color_cover=false" alt="Spotify Playing" />
-</div>
-
-## 💡 Cita que me Inspira
-
-<div align="center">
-  
-> *"El código es como el humor. Cuando tienes que explicarlo, es malo."* - Cory House
-
-</div>
-
-## 🤝 Conectemos
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandy-cruz-09107b38a/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/WandyDev_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tuportfolio.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wandydev01@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&color=58A6FF&style=for-the-badge&label=Visitas)
 
 </div>
 
 ---
 
+## 🚀 Sobre Mí
+
+Desarrollador Full Stack apasionado por crear soluciones digitales que impacten positivamente. Me especializo en tecnologías modernas de JavaScript/TypeScript y disfruto transformando ideas en aplicaciones funcionales y escalables.
+
+```typescript
+const wandy = {
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    technologies: {
+        frontend: ["React", "React Native", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "NestJS"],
+        databases: ["PostgreSQL", "MySQL"],
+        tools: ["Git", "Figma", "VS Code"]
+    },
+    currentFocus: "Construyendo aplicaciones web modernas y escalables",
+    funFact: "Debug en modo difícil: sin console.log()"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  
-**¿Te gustó mi perfil? ¡Dale una ⭐ a mis repositorios!**
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-*💼 Abierto a oportunidades laborales y colaboraciones*
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuusuario&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=tuusuario&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=tuusuario&redirect=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuusuario/tuusuario/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuusuario/tuusuario/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tuusuario/tuusuario/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 💭 Cita Favorita
+
+<div align="center">
+
+> *"El código es como el humor. Cuando tienes que explicarlo, es malo."*  
+> — **Cory House**
+
+</div>
+
+---
+
+## 🤝 Conéctate Conmigo
+
+<div align="center">
+
+¿Tienes un proyecto en mente? ¡Hablemos!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandy-cruz-09107b38a/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/WandyDev_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wandydev01@gmail.com)
+
+<br>
+
+**💼 Abierto a nuevas oportunidades y colaboraciones**
+
+<br>
+
+⭐ **Si te gustó mi perfil, no olvides darle una estrella a mis repositorios**
+
+<br>
+
+*Hecho con ❤️ y mucho ☕ por Wandy*
+
 </div>
